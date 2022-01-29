@@ -1,0 +1,4 @@
+adana,1,8000
+samsun,55,9000
+istanbul,34,10000
+konya,42,5000

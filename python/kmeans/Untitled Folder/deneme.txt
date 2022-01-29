@@ -1,0 +1,5 @@
+mercedes,2000
+ferrai,2500
+porsche,3200
+lamborgini,4000
+şahin,200
